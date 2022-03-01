@@ -53,6 +53,10 @@ http://iptv.tvfix.org/hls/szhd.m3u8
 http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,贵州卫视
 http://101.71.255.229:6610/zjhs/2/10146/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,翡翠台
+http://iptv.tvfix.org/hls/jade.m3u8
+#EXTINF:-1 ,凤凰资讯
+http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1 ,上海财经
 http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1 ,上海都市
