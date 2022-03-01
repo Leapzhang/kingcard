@@ -53,10 +53,6 @@ http://iptv.tvfix.org/hls/szhd.m3u8
 http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,贵州卫视
 http://101.71.255.229:6610/zjhs/2/10146/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,平阳新闻综合
-http://pili-live-hls.wzpy.cn/wzpy/tv9298-1590059797.m3u8
-#EXTINF:-1 ,平阳娱乐生活
-http://pili-live-hls.wzpy.cn/wzpy/tv9298-1590106330.m3u8
 #EXTINF:-1 ,上海财经
 http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1 ,上海都市
@@ -106,6 +102,6 @@ https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
 #EXTINF:-1 ,江苏优漫卡通
 http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,湖南金鹰卡通
-http://iptv.tvfix.org/hls/jykttv.m3u8
+http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,iHot爱美食
 http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
