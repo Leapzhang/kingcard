@@ -10,7 +10,7 @@ http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 ,CCTV5
 http://101.71.255.229:6610/zjhs/2/10130/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,CCTV5+
-http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_yptovzwq_key9491A578E799B2DA7F19C17DD5D7C39DD0460D77D16972AF44CE25C8DC80E0837E179EF3CA38AD4F6D3D659A492A7AD2E21D2024D49C8E04A544696B699BD50245BEE8D6625216618ADF28BC704E5BFFB7F262480D6E17D6F9C91DBF9C4A7BDC0C46E205B7D3E7401598F4D67D1D5FB5_/live/cctv5phd/4000000/d1.m3u8
+http://iptv.tvfix.org/hls/cctv5phd.m3u8
 #EXTINF:-1 ,CCTV6
 http://101.71.255.229:6610/zjhs/2/10131/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,CCTV7
