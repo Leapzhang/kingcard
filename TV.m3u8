@@ -41,6 +41,8 @@ http://101.71.255.229:6610/zjhs/2/10152/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10143/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,河北卫视
 http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,河南卫视
+http://101.71.255.229:6610/zjhs/2/10153/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,湖北卫视
 http://101.71.255.229:6610/zjhs/2/10154/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,湖南卫视
@@ -48,11 +50,19 @@ http://101.71.255.229:6610/zjhs/2/10140/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 ,江苏卫视
 http://101.71.255.229:6610/zjhs/2/10138/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,深圳卫视
-http://iptv.tvfix.org/hls/szhd.m3u8
+http://101.71.255.229:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,云南卫视
 http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,贵州卫视
 http://101.71.255.229:6610/zjhs/2/10146/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,四川卫视
+http://101.71.255.229:6610/zjhs/2/10144/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,天津卫视
+http://101.71.255.229:6610/zjhs/2/10150/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,辽宁卫视
+http://101.71.255.229:6610/zjhs/2/10148/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 ,安徽卫视
+http://101.71.255.229:6610/zjhs/2/10141/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,凤凰资讯
 http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1 ,上海财经
@@ -100,7 +110,7 @@ http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 #EXTINF:-1 ,iHOT爱动漫
 http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,北京卡酷少儿
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8
+http://iptv.tvfix.org/hls/brtv10hd.m3u8
 #EXTINF:-1 ,江苏优漫卡通
 http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,湖南金鹰卡通
