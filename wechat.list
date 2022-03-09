@@ -1,0 +1,14 @@
+DOMAIN-SUFFIX,DOMAIN-SUFFIX,hkshort.weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,hkaxshort.weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,hkextshort.weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,hkdisas.weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,hkshort6.weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,hkshort.pay.weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,hklong.weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,hkminorshort.weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,hkquic.weixin.qq.com,DIRECT
+DOMAIN-SUFFIX,sgshort.pay.wechat.com,DIRECT
+DOMAIN-SUFFIX,sglong.wechat.com,DIRECT
+DOMAIN-SUFFIX,sgminorshort.wechat.com,DIRECT
+DOMAIN-SUFFIX,sgshort.wechat.com,DIRECT
+DOMAIN-SUFFIX,sgaxshort.wechat.com,DIRECT
