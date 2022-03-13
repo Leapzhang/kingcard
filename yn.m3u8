@@ -1,0 +1,91 @@
+#EXTM3U
+#EXTINF:-1 ,CCTV-1
+http://iptv.tvfix.org/hls/cctv1hd.m3u8
+#EXTINF:-1 ,CCTV-2
+http://iptv.tvfix.org/hls/cctv2hd.m3u8
+#EXTINF:-1 ,CCTV-3
+http://iptv.tvfix.org/hls/cctv3hd.m3u8
+#EXTINF:-1 ,CCTV-4
+http://iptv.tvfix.org/hls/cctv4hd.m3u8
+#EXTINF:-1 ,CCTV-5
+http://iptv.tvfix.org/hls/cctv5hd.m3u8
+#EXTINF:-1 ,CCTV-5+
+http://iptv.tvfix.org/hls/cctv5phd.m3u8
+#EXTINF:-1 ,CCTV-6
+http://iptv.tvfix.org/hls/cctv6hd.m3u8
+#EXTINF:-1 ,CCTV-7
+http://iptv.tvfix.org/hls/cctv7hd.m3u8
+#EXTINF:-1 ,CCTV-8
+http://iptv.tvfix.org/hls/cctv8hd.m3u8
+#EXTINF:-1 ,CCTV-9
+http://iptv.tvfix.org/hls/cctv9hd.m3u8
+#EXTINF:-1 ,CCTV-10
+http://iptv.tvfix.org/hls/cctv10hd.m3u8
+#EXTINF:-1 ,CCTV-11
+http://iptv.tvfix.org/hls/cctv11hd.m3u8
+#EXTINF:-1 ,CCTV-12
+http://iptv.tvfix.org/hls/cctv12hd.m3u8
+#EXTINF:-1 ,CCTV-13
+http://iptv.tvfix.org/hls/cctv13hd.m3u8
+#EXTINF:-1 ,CCTV-14
+http://iptv.tvfix.org/hls/cctv14hd.m3u8
+#EXTINF:-1 ,CCTV-15
+http://iptv.tvfix.org/hls/cctv15hd.m3u8
+#EXTINF:-1 ,CCTV-16
+http://iptv.tvfix.org/hls/cctv16hd.m3u8
+#EXTINF:-1 ,CCTV-17
+http://iptv.tvfix.org/hls/cctv17hd.m3u8
+#EXTINF:-1 ,五星体育
+http://iptv.tvfix.org/hls/wxtyhd.m3u8
+#EXTINF:-1 ,北京卫视
+http://iptv.tvfix.org/hls/brtv1hd.m3u8
+#EXTINF:-1 ,湖南卫视
+http://iptv.tvfix.org/hls/hunanhd.m3u8
+#EXTINF:-1 ,浙江卫视
+http://iptv.tvfix.org/hls/zjhd.m3u8
+#EXTINF:-1 ,江苏卫视
+http://iptv.tvfix.org/hls/jshd.m3u8
+#EXTINF:-1 ,东方卫视
+http://iptv.tvfix.org/hls/dfhd.m3u8
+#EXTINF:-1 ,安徽卫视
+http://iptv.tvfix.org/hls/ahhd.m3u8
+#EXTINF:-1 ,黑龙江卫视
+http://iptv.tvfix.org/hls/hljhd.m3u8
+#EXTINF:-1 ,辽宁卫视
+http://iptv.tvfix.org/hls/lnhd.m3u8
+#EXTINF:-1 ,深圳卫视
+http://iptv.tvfix.org/hls/szhd.m3u8
+#EXTINF:-1 ,广东卫视
+http://iptv.tvfix.org/hls/gdhd.m3u8
+#EXTINF:-1 ,天津卫视
+http://iptv.tvfix.org/hls/tjhd.m3u8
+#EXTINF:-1 ,湖北卫视
+http://iptv.tvfix.org/hls/hbhd.m3u8
+#EXTINF:-1 ,山东卫视
+http://iptv.tvfix.org/hls/sdhd.m3u8
+#EXTINF:-1 ,重庆卫视
+http://iptv.tvfix.org/hls/cqhd.m3u8
+#EXTINF:-1 ,福建卫视
+http://iptv.tvfix.org/hls/dnhd.m3u8
+#EXTINF:-1 ,四川卫视
+http://iptv.tvfix.org/hls/schd.m3u8
+#EXTINF:-1 ,河北卫视
+http://iptv.tvfix.org/hls/hebhd.m3u8
+#EXTINF:-1 ,江西卫视
+http://iptv.tvfix.org/hls/jxhd.m3u8
+#EXTINF:-1 ,河南卫视
+http://iptv.tvfix.org/hls/hnhd.m3u8
+#EXTINF:-1 ,广西卫视
+http://iptv.tvfix.org/hls/gxhd.m3u8
+#EXTINF:-1 ,海南卫视
+http://iptv.tvfix.org/hls/lyhd.m3u8
+#EXTINF:-1 ,贵州卫视
+http://iptv.tvfix.org/hls/gzhd.m3u8
+#EXTINF:-1 ,上海新闻综合
+http://iptv.tvfix.org/hls/shxwzhhd.m3u8
+#EXTINF:-1 ,上海东方影视
+http://iptv.tvfix.org/hls/shdfyshd.m3u8
+#EXTINF:-1 ,上海都市频道
+http://iptv.tvfix.org/hls/shdspdhd.m3u8
+#EXTINF:-1 ,上海外语频道
+http://iptv.tvfix.org/hls/shwypdhd.m3u8
