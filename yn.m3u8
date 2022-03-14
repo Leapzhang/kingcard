@@ -41,8 +41,6 @@ http://iptv.tvfix.org/hls/wxtyhd.m3u8
 http://iptv.tvfix.org/hls/brtv1hd.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://iptv.tvfix.org/hls/hunanhd.m3u8
-#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://iptv.tvfix.org/hls/zjhd.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://iptv.tvfix.org/hls/jshd.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
@@ -81,27 +79,27 @@ http://iptv.tvfix.org/hls/gxhd.m3u8
 http://iptv.tvfix.org/hls/lyhd.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://iptv.tvfix.org/hls/gzhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江公共新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江公共新闻
 http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江国际
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江国际
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江教科影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江教科影视
 http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江经济台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江经济台
 http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 tvg-id="6575" tvg-name="留学世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE24.jpg" group-title="地方",浙江留学世界台
+#EXTINF:-1 tvg-id="6575" tvg-name="留学世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE24.jpg" group-title="浙江",浙江留学世界台
 http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江钱江台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江钱江台
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江少儿台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江少儿台
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江新闻
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江休闲台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江休闲台
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",浙江影视台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江影视台
 http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上海新闻综合
 http://iptv.tvfix.org/hls/shxwzhhd.m3u8
