@@ -10,7 +10,7 @@ http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.z
 #EXTINF:-1 ,CCTV5
 http://101.71.255.229:6610/zjhs/2/10130/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,CCTV5+
-http://iptv.tvfix.org/hls/cctv5phd.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 ,CCTV6
 http://101.71.255.229:6610/zjhs/2/10131/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,CCTV7
@@ -63,14 +63,12 @@ http://101.71.255.229:6610/zjhs/2/10150/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10148/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,安徽卫视
 http://101.71.255.229:6610/zjhs/2/10141/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,凤凰资讯
-http://iptv.tvfix.org/hls/fhzx.m3u8
 #EXTINF:-1 ,上海财经
 http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1 ,上海都市
 http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
 #EXTINF:-1 ,上海哈哈炫动
-http://iptv.tvfix.org/hls/hhxdhd.m3u8
+http://112.25.48.68/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 ,上海生活
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 ,上海新闻
@@ -109,8 +107,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 #EXTINF:-1 ,iHOT爱动漫
 http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,北京卡酷少儿
-http://iptv.tvfix.org/hls/brtv10hd.m3u8
 #EXTINF:-1 ,江苏优漫卡通
 http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,湖南金鹰卡通
