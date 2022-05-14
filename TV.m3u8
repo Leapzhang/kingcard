@@ -9,8 +9,6 @@ http://101.71.255.229:6610/zjhs/2/10128/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,CCTV5
 http://101.71.255.229:6610/zjhs/2/10130/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV5+
-http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 ,CCTV6
 http://101.71.255.229:6610/zjhs/2/10131/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,CCTV7
@@ -67,8 +65,6 @@ http://101.71.255.229:6610/zjhs/2/10141/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
 #EXTINF:-1 ,上海都市
 http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,上海哈哈炫动
-http://112.25.48.68/live/program/live/hhxdhd/4000000/mnf.m3u8
 #EXTINF:-1 ,上海生活
 http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
 #EXTINF:-1 ,上海新闻
@@ -81,8 +77,6 @@ http://live.wzqmt.com/wztv3/sd/live.m3u8
 http://live.wzqmt.com/wztv4/sd/live.m3u8
 #EXTINF:-1 ,温州经济科教
 http://live.wzqmt.com/wztv2/sd/live.m3u8
-#EXTINF:-1 ,五星体育高清
-http://iptv.tvfix.org/hls/wxtyhd.m3u8
 #EXTINF:-1 ,浙江公共新闻
 http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 ,浙江国际
@@ -103,8 +97,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
 #EXTINF:-1 ,浙江休闲台
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 ,浙江影视台
-http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
 #EXTINF:-1 ,iHOT爱动漫
 http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,江苏优漫卡通
