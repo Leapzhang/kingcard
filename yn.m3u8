@@ -119,3 +119,33 @@ https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daae
 https://hwapi.yunshicloud.com/62hdvf/180p57.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 #EXTINF:-1 ,云南少儿
 https://hwapi.yunshicloud.com/62hdvf/9ojsty.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
+#EXTINF:-1 ,云南澜湄国际 576
+http://39.130.204.134:6610/gitv_live/G_YNTVGJ/G_YNTVGJ.m3u8?
+#EXTINF:-1 ,云南移动电视 576
+http://39.130.204.134:6610/gitv_live/G_QICAIGONGJIAO/G_QICAIGONGJIAO.m3u8?
+#EXTINF:-1 ,530100|昆明1新闻综合 2.6M1080
+http://39.130.204.134:6610/gitv_live/G_KMTV-1/G_KMTV-1.m3u8?
+#EXTINF:-1 ,530100|昆明2经济生活 576
+http://39.130.204.134:6610/gitv_live/G_KMTV-2/G_KMTV-2.m3u8?
+#EXTINF:-1 ,530100|昆明3科学教育 576
+http://39.130.204.134:6610/gitv_live/G_KMTV-3/G_KMTV-3.m3u8?
+#EXTINF:-1 ,530100|昆明4文体娱乐 576
+http://39.130.204.134:6610/gitv_live/G_KMTV-4/G_KMTV-4.m3u8?
+#EXTINF:-1 ,530100|昆明5影视综艺 576
+http://39.130.204.134:6610/gitv_live/G_KMTV-5/G_KMTV-5.m3u8?
+#EXTINF:-1 ,530100|昆明6公共 2.5M1080
+http://39.130.204.134:6610/gitv_live/G_KMTV-6/G_KMTV-6.m3u8?
+#EXTINF:-1 ,530100|昆明教育电视台 3.6M1080
+http://39.130.204.134:6610/gitv_live/G_KMETV/G_KMETV.m3u8?
+#EXTINF:-1 ,530300|曲靖1 3.3M1080
+http://39.130.204.134:6610/gitv_live/G_QUJING-1/G_QUJING-1.m3u8?
+#EXTINF:-1 ,530300|曲靖2 3.3M1080
+http://39.130.204.134:6610/gitv_live/G_QUJING-2/G_QUJING-2.m3u8?
+#EXTINF:-1 ,530300|曲靖3 3.3M1080
+http://39.130.204.134:6610/gitv_live/G_QUJING-3/G_QUJING-3.m3u8?
+#EXTINF:-1 ,530304|马龙 576
+http://39.130.204.134:6610/gitv_live/G_MALONGTV/G_MALONGTV.m3u8?
+#EXTINF:-1 ,530324|罗平 576
+http://39.130.204.134:6610/gitv_live/G_QJLUOPING/G_QJLUOPING.m3u8?
+#EXTINF:-1 ,530326|会泽 1080
+http://39.130.204.134:6610/gitv_live/G_HUIZE/G_HUIZE.m3u8?
