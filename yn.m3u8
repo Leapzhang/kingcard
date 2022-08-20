@@ -36,7 +36,7 @@ http://39.130.204.134:6610/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8?
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育
 http://112.25.48.68/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+http://39.130.204.134:6610/gitv_live/BTV-1/BTV-1.m3u8？
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
 http://39.134.66.66/PLTV/88888888/224/3221225506/index.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
@@ -93,14 +93,6 @@ http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i02.cztv.com/2013/12/1387852167_63317800.png" group-title="浙江",浙江休闲台
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上视新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shangshixinwen.png" group-title="上海",上海新闻综合
-http://iptv.tvfix.org/hls/shxwzhhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="东方影视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png" group-title="上海",上海东方影视
-http://iptv.tvfix.org/hls/shdfyshd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上海都市频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidushi.jpg" group-title="上海",上海都市频道
-http://iptv.tvfix.org/hls/shdspdhd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="上视外语频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaiwaiyu.png" group-title="上海",上视外语频道
-http://iptv.tvfix.org/hls/shwypdhd.m3u8
 #EXTINF:-1 ,云南卫视
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 #EXTINF:-1 ,云南公共
@@ -119,29 +111,29 @@ https://hwapi.yunshicloud.com/62hdvf/9ojsty.m3u8?tk=3ea2490de3fb10f9937aad28daae
 http://39.130.204.134:6610/gitv_live/G_YNTVGJ/G_YNTVGJ.m3u8?
 #EXTINF:-1 ,云南移动电视 576
 http://39.130.204.134:6610/gitv_live/G_QICAIGONGJIAO/G_QICAIGONGJIAO.m3u8?
-#EXTINF:-1 ,530100|昆明1新闻综合 2.6M1080
+#EXTINF:-1 ,昆明1新闻综合
 http://39.130.204.134:6610/gitv_live/G_KMTV-1/G_KMTV-1.m3u8?
-#EXTINF:-1 ,530100|昆明2经济生活 576
+#EXTINF:-1 ,昆明2经济生活
 http://39.130.204.134:6610/gitv_live/G_KMTV-2/G_KMTV-2.m3u8?
-#EXTINF:-1 ,530100|昆明3科学教育 576
+#EXTINF:-1 ,昆明3科学教育
 http://39.130.204.134:6610/gitv_live/G_KMTV-3/G_KMTV-3.m3u8?
-#EXTINF:-1 ,530100|昆明4文体娱乐 576
+#EXTINF:-1 ,昆明4文体娱乐
 http://39.130.204.134:6610/gitv_live/G_KMTV-4/G_KMTV-4.m3u8?
-#EXTINF:-1 ,530100|昆明5影视综艺 576
+#EXTINF:-1 ,昆明5影视综艺
 http://39.130.204.134:6610/gitv_live/G_KMTV-5/G_KMTV-5.m3u8?
-#EXTINF:-1 ,530100|昆明6公共 2.5M1080
+#EXTINF:-1 ,昆明6公共
 http://39.130.204.134:6610/gitv_live/G_KMTV-6/G_KMTV-6.m3u8?
-#EXTINF:-1 ,530100|昆明教育电视台 3.6M1080
+#EXTINF:-1 ,昆明教育电视台
 http://39.130.204.134:6610/gitv_live/G_KMETV/G_KMETV.m3u8?
-#EXTINF:-1 ,530300|曲靖1 3.3M1080
+#EXTINF:-1 ,曲靖1
 http://39.130.204.134:6610/gitv_live/G_QUJING-1/G_QUJING-1.m3u8?
-#EXTINF:-1 ,530300|曲靖2 3.3M1080
+#EXTINF:-1 ,曲靖2
 http://39.130.204.134:6610/gitv_live/G_QUJING-2/G_QUJING-2.m3u8?
-#EXTINF:-1 ,530300|曲靖3 3.3M1080
+#EXTINF:-1 ,曲靖3
 http://39.130.204.134:6610/gitv_live/G_QUJING-3/G_QUJING-3.m3u8?
-#EXTINF:-1 ,530304|马龙 576
+#EXTINF:-1 ,马龙
 http://39.130.204.134:6610/gitv_live/G_MALONGTV/G_MALONGTV.m3u8?
-#EXTINF:-1 ,530324|罗平 576
+#EXTINF:-1 ,罗平
 http://39.130.204.134:6610/gitv_live/G_QJLUOPING/G_QJLUOPING.m3u8?
-#EXTINF:-1 ,530326|会泽 1080
+#EXTINF:-1 ,会泽
 http://39.130.204.134:6610/gitv_live/G_HUIZE/G_HUIZE.m3u8?
