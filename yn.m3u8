@@ -93,47 +93,47 @@ http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i02.cztv.com/2013/12/1387852167_63317800.png" group-title="浙江",浙江休闲台
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 ,云南卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南卫视
 https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-#EXTINF:-1 ,云南公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南公共
 https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-#EXTINF:-1 ,云南都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南都市
 https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-#EXTINF:-1 ,云南娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南娱乐
 https://hwapi.yunshicloud.com/62hdvf/iq8639.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-#EXTINF:-1 ,云南影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南影视
 https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-#EXTINF:-1 ,云南生活资讯
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南生活资讯
 https://hwapi.yunshicloud.com/62hdvf/180p57.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-#EXTINF:-1 ,云南少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南少儿
 https://hwapi.yunshicloud.com/62hdvf/9ojsty.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-#EXTINF:-1 ,云南澜湄国际 576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南澜湄国际 576
 http://39.130.204.134:6610/gitv_live/G_YNTVGJ/G_YNTVGJ.m3u8?
-#EXTINF:-1 ,云南移动电视 576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南移动电视 576
 http://39.130.204.134:6610/gitv_live/G_QICAIGONGJIAO/G_QICAIGONGJIAO.m3u8?
-#EXTINF:-1 ,昆明1新闻综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",昆明1新闻综合
 http://39.130.204.134:6610/gitv_live/G_KMTV-1/G_KMTV-1.m3u8?
-#EXTINF:-1 ,昆明2经济生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",昆明2经济生活
 http://39.130.204.134:6610/gitv_live/G_KMTV-2/G_KMTV-2.m3u8?
-#EXTINF:-1 ,昆明3科学教育
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",昆明3科学教育
 http://39.130.204.134:6610/gitv_live/G_KMTV-3/G_KMTV-3.m3u8?
-#EXTINF:-1 ,昆明4文体娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",昆明4文体娱乐
 http://39.130.204.134:6610/gitv_live/G_KMTV-4/G_KMTV-4.m3u8?
-#EXTINF:-1 ,昆明5影视综艺
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",昆明5影视综艺
 http://39.130.204.134:6610/gitv_live/G_KMTV-5/G_KMTV-5.m3u8?
-#EXTINF:-1 ,昆明6公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",昆明6公共
 http://39.130.204.134:6610/gitv_live/G_KMTV-6/G_KMTV-6.m3u8?
-#EXTINF:-1 ,昆明教育电视台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",昆明教育电视台
 http://39.130.204.134:6610/gitv_live/G_KMETV/G_KMETV.m3u8?
-#EXTINF:-1 ,曲靖1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",曲靖1
 http://39.130.204.134:6610/gitv_live/G_QUJING-1/G_QUJING-1.m3u8?
-#EXTINF:-1 ,曲靖2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",曲靖2
 http://39.130.204.134:6610/gitv_live/G_QUJING-2/G_QUJING-2.m3u8?
-#EXTINF:-1 ,曲靖3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",曲靖3
 http://39.130.204.134:6610/gitv_live/G_QUJING-3/G_QUJING-3.m3u8?
-#EXTINF:-1 ,马龙
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",马龙
 http://39.130.204.134:6610/gitv_live/G_MALONGTV/G_MALONGTV.m3u8?
-#EXTINF:-1 ,罗平
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",罗平
 http://39.130.204.134:6610/gitv_live/G_QJLUOPING/G_QJLUOPING.m3u8?
-#EXTINF:-1 ,会泽
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",会泽
 http://39.130.204.134:6610/gitv_live/G_HUIZE/G_HUIZE.m3u8?
