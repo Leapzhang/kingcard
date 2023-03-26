@@ -85,20 +85,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225598/index.m3
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225699/index.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视 
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221225704/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南都市
-https://hwapi.yunshicloud.com/62hdvf/rjwt14.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南公共
-https://hwapi.yunshicloud.com/62hdvf/227q43.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南少儿
-https://hwapi.yunshicloud.com/62hdvf/9ojsty.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南生活资讯
-https://hwapi.yunshicloud.com/62hdvf/180p57.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南影视
-https://hwapi.yunshicloud.com/62hdvf/utrat7.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="云南",云南娱乐
-https://hwapi.yunshicloud.com/62hdvf/iq8639.m3u8?tk=3ea2490de3fb10f9937aad28daaed3d5&t=NaN
+http://[2409:8087:4402:20:1:1216:401:14]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226660/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江公共新闻
 http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江",浙江国际
