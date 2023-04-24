@@ -9,8 +9,6 @@ http://101.71.255.229:6610/zjhs/2/10128/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,CCTV5
 http://101.71.255.229:6610/zjhs/2/10130/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV5+
-http://117.148.179.136/PLTV/88888888/224/3221231459/index.m3u8
 #EXTINF:-1 ,CCTV6
 http://101.71.255.229:6610/zjhs/2/10131/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,CCTV7
