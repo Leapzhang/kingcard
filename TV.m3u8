@@ -63,22 +63,6 @@ http://101.71.255.229:6610/zjhs/2/10150/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://101.71.255.229:6610/zjhs/2/10148/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 ,安徽卫视
 http://101.71.255.229:6610/zjhs/2/10141/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,上海财经
-http://183.207.255.188/live/program/live/dfcj/1300000/mnf.m3u8
-#EXTINF:-1 ,上海都市
-http://183.207.255.188/live/program/live/ylpdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,上海生活
-http://183.207.255.188/live/program/live/shsshd/4000000/mnf.m3u8
-#EXTINF:-1 ,上海新闻
-http://183.207.255.188/live/program/live/xwzhhd/4000000/mnf.m3u8
-#EXTINF:-1 ,上海影视
-http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 ,温州都市生活
-http://live.wzqmt.com/wztv3/sd/live.m3u8
-#EXTINF:-1 ,温州公共频道
-http://live.wzqmt.com/wztv4/sd/live.m3u8
-#EXTINF:-1 ,温州经济科教
-http://live.wzqmt.com/wztv2/sd/live.m3u8
 #EXTINF:-1 ,浙江公共新闻
 http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
 #EXTINF:-1 ,浙江国际
