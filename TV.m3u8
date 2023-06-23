@@ -1,91 +1,17 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1
-http://101.71.255.229:6610/zjhs/2/10126/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV2
-http://101.71.255.229:6610/zjhs/2/10089/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV3
-http://101.71.255.229:6610/zjhs/2/10128/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV4
-http://101.71.255.229:6610/zjhs/2/10090/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV5
-http://101.71.255.229:6610/zjhs/2/10130/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV6
-http://101.71.255.229:6610/zjhs/2/10131/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV7
-http://101.71.255.229:6610/zjhs/2/10091/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV8
-http://101.71.255.229:6610/zjhs/2/10132/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV9
-http://101.71.255.229:6610/zjhs/2/10064/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV10
-http://101.71.255.229:6610/zjhs/2/10084/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV11
-http://101.71.255.229:6610/zjhs/2/10085/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV12
-http://101.71.255.229:6610/zjhs/2/10086/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV13
-http://101.71.255.229:6610/zjhs/2/10155/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV14
-http://101.71.255.229:6610/zjhs/2/10087/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,CCTV15
-http://101.71.255.229:6610/zjhs/2/10088/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,北京卫视
-http://101.71.255.229:6610/zjhs/2/10136/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,东方卫视
-http://101.71.255.229:6610/zjhs/2/10139/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,东南卫视
-http://101.71.255.229:6610/zjhs/2/10152/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,广东卫视
-http://101.71.255.229:6610/zjhs/2/10143/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,河北卫视
-http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,河南卫视
-http://101.71.255.229:6610/zjhs/2/10153/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,湖北卫视
-http://101.71.255.229:6610/zjhs/2/10154/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,湖南卫视
-http://101.71.255.229:6610/zjhs/2/10140/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,江苏卫视
-http://101.71.255.229:6610/zjhs/2/10138/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,深圳卫视
-http://101.71.255.229:6610/zjhs/2/10045/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,云南卫视
-http://101.71.255.229:6610/zjhs/2/10054/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,贵州卫视
-http://101.71.255.229:6610/zjhs/2/10146/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,四川卫视
-http://101.71.255.229:6610/zjhs/2/10144/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,天津卫视
-http://101.71.255.229:6610/zjhs/2/10150/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,辽宁卫视
-http://101.71.255.229:6610/zjhs/2/10148/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,安徽卫视
-http://101.71.255.229:6610/zjhs/2/10141/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,浙江公共新闻
+#EXTINF:-1,tvg-id="浙江公共新闻" tvg-name="浙江公共新闻" tvg-logo="https://epg.112114.xyz/logo/浙江公共新闻.png" group-title="浙江"
 http://hw-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 ,浙江国际
+#EXTINF:-1,tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://epg.112114.xyz/logo/浙江国际.png" group-title="浙江"
 http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 ,浙江教科影视
+#EXTINF:-1,tvg-id="浙江教科影视" tvg-name="浙江教科影视" tvg-logo="https://epg.112114.xyz/logo/浙江教科影视.png" group-title="浙江"
 http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 ,浙江经济台
+#EXTINF:-1,tvg-id="浙江经济台" tvg-name="浙江经济台" tvg-logo="https://epg.112114.xyz/logo/浙江经济台.png" group-title="浙江"
 http://hw-m-l.cztv.com/channels/lantian/channel03/1080p.m3u8
-#EXTINF:-1 ,浙江留学世界台
-http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8
-#EXTINF:-1 ,浙江钱江台
+#EXTINF:-1,tvg-id="浙江钱江台" tvg-name="浙江钱江台" tvg-logo="https://epg.112114.xyz/logo/浙江钱江台.png" group-title="浙江"
 http://hw-m-l.cztv.com/channels/lantian/channel02/1080p.m3u8
-#EXTINF:-1 ,浙江少儿台
+#EXTINF:-1,tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://epg.112114.xyz/logo/浙江少儿.png" group-title="浙江"
 http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-#EXTINF:-1 ,浙江卫视
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视"
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
-#EXTINF:-1 ,浙江新闻
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1 ,浙江休闲台
+#EXTINF:-1,tvg-id="浙江休闲台" tvg-name="浙江休闲台" tvg-logo="https://epg.112114.xyz/logo/浙江休闲台.png" group-title="浙江"
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 ,iHOT爱动漫
-http://101.71.255.229:6610/zjhs/2/10107/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,江苏优漫卡通
-http://101.71.255.229:6610/zjhs/2/10053/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,湖南金鹰卡通
-http://101.71.255.229:6610/zjhs/2/10030/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1 ,iHot爱美食
-http://101.71.255.229:6610/zjhs/2/10108/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
