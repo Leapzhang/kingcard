@@ -1,5 +1,4 @@
 IP地址,端口,TLS,数据中心,地区,城市,网络延迟
-IP鍦板潃	绔彛	TLS	鏁版嵁涓績	鍦板尯	鍩庡競	缃戠粶寤惰繜
 172.64.229.132	443	TRUE	NRT	Asia Pacific	Tokyo	136 ms
 172.64.229.169	443	TRUE	NRT	Asia Pacific	Tokyo	136 ms
 172.64.229.168	443	TRUE	NRT	Asia Pacific	Tokyo	136 ms
