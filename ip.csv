@@ -308,3 +308,32 @@ IP地址,端口,TLS,数据中心,地区,城市,网络延迟
 173.245.49.96	443	TRUE	SJC	North America	San Jose	195 ms
 173.245.49.1	443	TRUE	SJC	North America	San Jose	195 ms
 173.245.49.6	443	TRUE	SJC	North America	San Jose	196 ms
+152.70.102.124	8443	TRUE	HKG	Asia Pacific	Hong Kong	160
+158.101.148.221	2096	TRUE	HKG	Asia Pacific	Hong Kong	183
+158.101.148.221	2087	TRUE	HKG	Asia Pacific	Hong Kong	216
+158.101.148.221	8443	TRUE	HKG	Asia Pacific	Hong Kong	172
+132.145.121.242	2087	TRUE	HKG	Asia Pacific	Hong Kong	193
+141.147.178.135	2087	TRUE	HKG	Asia Pacific	Hong Kong	146
+141.147.178.135	2053	TRUE	HKG	Asia Pacific	Hong Kong	154
+131.186.40.31	2087	TRUE	HKG	Asia Pacific	Hong Kong	164
+141.147.178.135	8443	TRUE	HKG	Asia Pacific	Hong Kong	139
+131.186.40.31	8443	TRUE	HKG	Asia Pacific	Hong Kong	176
+151.145.69.105	2083	TRUE	HKG	Asia Pacific	Hong Kong	137
+132.145.121.242	2096	TRUE	HKG	Asia Pacific	Hong Kong	159
+131.186.59.232	8443	TRUE	HKG	Asia Pacific	Hong Kong	164
+131.186.40.31	2096	TRUE	HKG	Asia Pacific	Hong Kong	175
+152.70.102.124	2083	TRUE	HKG	Asia Pacific	Hong Kong	144
+131.186.59.232	2087	TRUE	HKG	Asia Pacific	Hong Kong	146
+152.70.102.124	2053	TRUE	HKG	Asia Pacific	Hong Kong	196
+132.145.121.242	8443	TRUE	HKG	Asia Pacific	Hong Kong	284
+131.186.40.31	2053	TRUE	HKG	Asia Pacific	Hong Kong	184
+131.186.59.232	2096	TRUE	HKG	Asia Pacific	Hong Kong	163
+151.145.69.105	2053	TRUE	HKG	Asia Pacific	Hong Kong	195
+131.186.59.232	2083	TRUE	HKG	Asia Pacific	Hong Kong	157
+131.186.59.232	2053	TRUE	HKG	Asia Pacific	Hong Kong	192
+158.101.148.221	2083	TRUE	HKG	Asia Pacific	Hong Kong	188
+132.145.121.242	2083	TRUE	HKG	Asia Pacific	Hong Kong	241
+146.235.17.21	443	TRUE	HKG	Asia Pacific	Hong Kong	1
+138.2.36.216	443	TRUE	HKG	Asia Pacific	Hong Kong	74
+129.151.134.185	443	TRUE	HKG	Asia Pacific	Hong Kong	90
+168.138.196.164	8443	TRUE	HKG	Asia Pacific	Hong Kong	141
