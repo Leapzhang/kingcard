@@ -1,0 +1,9 @@
+#!name=Unicom WiFiCalling
+#!desc=联通强开WiFi-Calling
+#!author=Leap
+
+
+hostname = m.client.10010.com
+
+
+^https?:\/\/m\.client\.10010\.com\/edopinterface\/officialWhite\/checkOfficialWhitePhone url response-body 0211 response-body 0000
